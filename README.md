@@ -4,7 +4,7 @@
 1. `Install Git`
 2. `Clone Project`
 ```sh
-git clone https://github.com/ButHetMuc/Gavroche-chat-app.git
+git clone https://github.com/phuongdenpro/chat-app.git
 ```
 3. `Open source code, dowload dependencies libraries`
 ```sh
